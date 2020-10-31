@@ -80,19 +80,19 @@
 }
 
 .halloween__letters > span:nth-child(5) {
-  animation-delay: 3.5s;
+  animation-delay: 3.25s;
 }
 
 .halloween__letters > span:nth-child(6) {
-  animation-delay: 3.5s;
+  animation-delay: 1.75s;
 }
 
 .halloween__letters > span:nth-child(7) {
-  animation-delay: 1.5s;
+  animation-delay: 2s;
 }
 
 .halloween__letters > span:nth-child(8) {
-  animation-delay: 2s;
+  animation-delay: 2.25s;
 }
 
 .halloween__letters > span:nth-child(9) {
@@ -116,15 +116,15 @@
 }
 
 .halloween__letters > span:nth-child(14) {
-  animation-delay: 3.75s;
+  animation-delay: 3.25s;
 }
 
 .halloween__letters > span:nth-child(15) {
-  animation-delay: 4s;
+  animation-delay: 3s;
 }
 
 .halloween__letters > span:nth-child(16) {
-  animation-delay: 4.25s;
+  animation-delay: 3.25s;
 }
 
 .ghost__button {
